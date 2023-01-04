@@ -1,4 +1,4 @@
-<h1>Descrição do Projeto</h1>
+<h1>Descrição do Projeto FrontEnd</h1>
 
 <p>O objetivo desse projeto é simular um app de receitas onde você pode pesquisar, checar, favoritar e finalizar uma receita sendo ela uma comida ou bebida.</p>
 
